@@ -13,8 +13,6 @@ I'm a full-stack developer specializing in **Angular** and **Spring Boot**. I en
 
 I work as a freelance developer with **Angular** and **Spring Boot**, building applications that focus on clean, efficient, and scalable code. When I'm not working on client projects, I enjoy tinkering with personal projects, exploring new technologies, and experimenting with innovative ideas.
 
-- I’m currently working on [Aura-ecommerce app](https://github.com/ZakariaeNaaim/aura-ecommerce)
-- All of my projects are available on my portfolio: [my-portfolio-niso.onrender.com](https://my-portfolio-niso.onrender.com/)
 - I'm always open to collaborations. If you'd like to work together or just chat, feel free to reach out!
 
 ## 🌱 When do I code?
